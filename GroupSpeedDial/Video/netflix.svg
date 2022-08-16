@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   viewBox="0 0 96 72.023892"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="netflix-logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2086"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.3480826"
+     inkscape:cx="507.36018"
+     inkscape:cy="339"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g4"
+     style="fill:#b81d24"
+     transform="matrix(0.30410493,0,0,0.30383107,2.3848687,23.648756)">
+    <path
+       d="m 256.09,76.212 c 4.178,0.405 8.354,0.84 12.52,1.29 l 9.198,-22.712 8.743,24.807 c 4.486,0.562 8.97,1.152 13.44,1.768 L 284.663,37.864 299.996,0 H 287.01 l -0.135,0.186 -8.283,20.455 -7.272,-20.638 h -12.822 l 13.237,37.565 -15.644,38.644 z m -9.697,-0.89 V 0 h -12.817 v 74.265 c 4.275,0.33 8.552,0.684 12.817,1.056 m -96.28,-4.211 c 3.46,0 6.916,0.026 10.366,0.054 V 43.492 h 15.397 V 31.708 H 160.48 v -19.91 h 17.733 V 0 h -30.6 v 71.12 c 0.831,0 1.666,-0.013 2.5,-0.01 m -39.794,0.72 c 4.27,-0.152 8.544,-0.28 12.824,-0.384 V 11.8 h 11.98 V 0.003 H 98.339 V 11.8 h 11.982 V 71.83 Z M 12.295,79.772 V 34.897 L 27.471,77.96 c 4.667,-0.524 9.341,-1.017 14.028,-1.483 V 0.001 H 29.201 V 46.484 L 12.825,0.001 H 0 V 81.385 H 0.077 C 4.14,80.823 8.217,80.289 12.295,79.772 M 85.98,11.797 V 0.001 H 55.377 V 75.202 A 1100.584,1100.584 0 0 1 85.955,72.991 V 61.184 c -5.916,0.344 -11.82,0.74 -17.71,1.181 V 43.497 H 83.642 V 31.706 H 68.245 V 11.797 Z M 203.614,60.62 V -0.003 h -12.873 v 71.876 c 10.24,0.376 20.44,0.9 30.606,1.56 V 61.619 c -5.9,-0.381 -11.81,-0.712 -17.733,-1"
+       id="path2"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
